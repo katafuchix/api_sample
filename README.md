@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # api_sample
+
+https://qiita.com/katafuchix/items/8a96e2fa9ddc8bc83545
